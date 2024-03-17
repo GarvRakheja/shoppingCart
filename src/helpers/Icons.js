@@ -1,0 +1,5 @@
+export const product_icon = require("../assets/product.png")
+export const order_icon = require("../assets/order-history.png")
+export const shopping_icon = require("../assets/shopping-cart-.png")
+export const star_icon = require("../assets/filledStar.png")
+export const cart_icon = require("../assets/cart.png")
